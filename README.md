@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Better Harness Tools, not merely storing the archive of leaked Claude Code</strong>
+  <strong>Better Harness Tools, not merely storing the archive of leaked Claude. Code</strong>
 </p>
 
 <p align="center">
