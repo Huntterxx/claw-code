@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sponsors/instructkr"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github&style=for-the-badge" alt="Sponsor on GitHub" /></a>
+  <a href="https://github.com/sponsors/Huntterxx"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github&style=for-the-badge" alt="Sponsor on GitHub" /></a>
 </p>
 
 > [!IMPORTANT]
-> **Rust port is now in progress** on the [`dev/rust`](https://github.com/instructkr/claw-code/tree/dev/rust) branch and is expected to be merged into main today. The Rust implementation aims to deliver a faster, memory-safe harness runtime. Stay tuned — this will be the definitive version of the project.
+> **Rust port is now in progress** on the [`dev/rust`](https://github.com/Huntterxx/claw-code/tree/dev/rust) branch and is expected to be merged into main today. The Rust implementation aims to deliver a faster, memory-safe harness runtime. Stay tuned — this will be the definitive version of the project.
 
-> If you find this work useful, consider [sponsoring @instructkr on GitHub](https://github.com/sponsors/instructkr) to support continued open-source harness engineering research.
+> If you find this work useful, consider [sponsoring @Huntterxx on GitHub](https://github.com/sponsors/Huntterxx) to support continued open-source harness engineering research.
 
 ---
 
@@ -27,7 +27,7 @@ The whole thing was orchestrated end-to-end using [oh-my-codex (OmX)](https://gi
 
 The result is a clean-room Python rewrite that captures the architectural patterns of Claude Code's agent harness without copying any proprietary source. I'm now actively collaborating with [@bellman_ych](https://x.com/bellman_ych) — the creator of OmX himself — to push this further. The basic Python foundation is already in place and functional, but we're just getting started. **Stay tuned — a much more capable version is on the way.**
 
-https://github.com/instructkr/claw-code
+https://github.com/Huntterxx/claw-code
 
 ![Tweet screenshot](assets/tweet-screenshot.png)
 
@@ -160,10 +160,10 @@ The restructuring and documentation work on this repository was AI-assisted and 
 ## Community
 
 <p align="center">
-  <a href="https://instruct.kr/"><img src="assets/instructkr.png" alt="instructkr" width="400" /></a>
+  <a href="https://instruct.kr/"><img src="assets/Huntterxx.png" alt="Huntterxx" width="400" /></a>
 </p>
 
-Join the [**instructkr Discord**](https://instruct.kr/) — the best Korean language model community. Come chat about LLMs, harness engineering, agent workflows, and everything in between.
+Join the [**Huntterxx Discord**](https://instruct.kr/) — the best Korean language model community. Come chat about LLMs, harness engineering, agent workflows, and everything in between.
 
 [![Discord](https://img.shields.io/badge/Join%20Discord-instruct.kr-5865F2?logo=discord&style=for-the-badge)](https://instruct.kr/)
 
@@ -171,11 +171,11 @@ Join the [**instructkr Discord**](https://instruct.kr/) — the best Korean lang
 
 This repository became **the fastest GitHub repo in history to surpass 30K stars**, reaching the milestone in just a few hours after publication.
 
-<a href="https://star-history.com/#instructkr/claw-code&Date">
+<a href="https://star-history.com/#Huntterxx/claw-code&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=instructkr/claw-code&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=instructkr/claw-code&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=instructkr/claw-code&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Huntterxx/claw-code&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Huntterxx/claw-code&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Huntterxx/claw-code&type=Date" />
   </picture>
 </a>
 
